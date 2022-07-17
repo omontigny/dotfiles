@@ -11,7 +11,7 @@
 
 [core]
   pager = less -FRSX
-	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
+	editor = subl -n -w  >/dev/null 2>&1
 
 [alias]
   co = checkout
@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = olivier.wagon498@free.fr
+	email = titeuff_2018@yahoo.fr
 	name = Olivier Montigny
