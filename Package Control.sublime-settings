@@ -9,16 +9,24 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
+		"BracketHighlighter",
+		"Color Highlight",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
 		"Latest Migration",
+		"LiveReload",
 		"MagicPython",
+		"MarkdownEditing",
+		"MarkdownPreview",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
-		"SublimeLinter-rubocop",
-		"BracketHighlighter",
-		"Color Highlight"
-	]
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json\nhttps://raw.github.com/Grafikart/ST3-LiveReload/master/package.json\nhttps://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	],
 }
